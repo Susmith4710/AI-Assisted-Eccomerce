@@ -1,0 +1,75 @@
+{
+  "menu": [
+    {
+      "id": 2,
+      "dish_name": "Tandoori Chicken",
+      "cost": 12.49,
+      "image_url": "https://www.allrecipes.com/thmb/ygY1JXP8_IkDSjPPW5VH2dTiMMU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/50347-indian-tandoori-chicken-DDMFS-4x3-3035-205e98c80b2f4275b5bd010c396d9149.jpg",
+      "quantity_available": 10,
+      "ratings": 4.7
+    },
+    {
+      "id": 3,
+      "dish_name": "Tandoori Roti",
+      "cost": 7.99,
+      "image_url": "https://www.cookingcarnival.com/wp-content/uploads/2020/05/Tandoori-roti-5.jpg",
+      "quantity_available": 20,
+      "ratings": 4.3
+    },
+    {
+      "id": 4,
+      "dish_name": "Murgh Musallam",
+      "cost": 14.99,
+      "image_url": "https://www.masala.tv/wp-content/uploads/2021/01/MURGH-MUSALLAMm.jpg",
+      "quantity_available": 8,
+      "ratings": 4.8
+    },
+    {
+      "id": 5,
+      "dish_name": "Gongura Chicken",
+      "cost": 10.99,
+      "image_url": "https://c.ndtvimg.com/2023-12/efrl2jm8_chicken-curry_625x300_24_December_23.jpg",
+      "quantity_available": 12,
+      "ratings": 4.6
+    },
+    {
+      "id": 6,
+      "dish_name": "Ramen Noodles",
+      "cost": 8.99,
+      "image_url": "https://thecozycook.com/wp-content/uploads/2023/02/Homemade-Ramen-f-500x500.jpg",
+      "quantity_available": 25,
+      "ratings": 4.4
+    },
+    {
+      "id": 7,
+      "dish_name": "Fish Fry",
+      "cost": 13.49,
+      "image_url": "https://live.staticflickr.com/5049/5209636673_45d44524ba_b.jpg",
+      "quantity_available": 7,
+      "ratings": 4.7
+    },
+    {
+      "id": 8,
+      "dish_name": "Ragi Sankati",
+      "cost": 18.99,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RAGI_MUDDE.JPG/640px-RAGI_MUDDE.JPG",
+      "quantity_available": 5,
+      "ratings": 4.9
+    },
+    {
+      "id": 9,
+      "dish_name": "Fish Pulusu",
+      "cost": 11.99,
+      "image_url": "https://www.freshtohome.com/blog/wp-content/uploads/2024/06/Screenshot-2024-06-27-150205.png",
+      "quantity_available": 18,
+      "ratings": 4.5
+    },
+    {
+      "id": 11,
+      "dish_name": "Hamburger",
+      "quantity_available": 23,
+      "image_url": "https://assets.epicurious.com/photos/57c5c6d9cf9e9ad43de2d96e/1:1/w_2240,c_limit/the-ultimate-hamburger.jpg",
+      "ratings": 4.4
+    }
+  ]
+}
