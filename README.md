@@ -1,1 +1,1 @@
-# AI-Assisted-Eccomerce
+# AI-Assisted-Ecommerce
