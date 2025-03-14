@@ -1,0 +1,15 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python virtual environments
+venv/
+__pycache__/
+
+# Ignore Node.js dependencies
+restaurant/node_modules/
+
+# Ignore Xcode & Swift build files
+DerivedData/
+*.xcworkspace/
+Pods/
+
